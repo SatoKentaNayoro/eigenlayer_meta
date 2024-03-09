@@ -1,7 +1,7 @@
 {
   "name": "Sato_goerli",
   "website": "",
-  "description": "",
-  "logo": "https://github.com/SatoKentaNayoro/eigenlayer_meta/blob/master/Sato.png",
+  "description": "Node to test eigenlayer.",
+  "logo": "https://raw.githubusercontent.com/SatoKentaNayoro/eigenlayer_meta/master/Sato.png",
   "twitter": ""
 }
